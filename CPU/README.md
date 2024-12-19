@@ -3,7 +3,8 @@ Hier befinden sich CPU-Benchmarks
 
 ## AMD Ryzen 5600X
 
-Cinebench 23 | multi | single
------------- | ----- | ------
-             | 9981  |
-             |       |
+6 Kerne; 12 Threads; 3,7 GHz
+
+|              | multi | single |
+| ------------ | ----- | ------ |
+| Cinebench 23 | 9981  | 1442   |
