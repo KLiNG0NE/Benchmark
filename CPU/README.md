@@ -5,6 +5,7 @@ Hier befinden sich CPU-Benchmarks
 
 6 Kerne; 12 Threads; 3,7 GHz
 
-|              | multi | single |
-| ------------ | ----- | ------ |
-| Cinebench 23 | 9981  | 1442   |
+|              | Version  | multi | single |
+| ------------ | -------- | ----- | -------|
+| Cinebench    | 23       | 9981  | 1442   |
+| Cinebench    | 2024.1.0 | 544   | 87     |
