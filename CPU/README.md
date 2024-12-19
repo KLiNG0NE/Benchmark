@@ -7,5 +7,5 @@ Hier befinden sich CPU-Benchmarks
 
 |              | Version  | multi | single |
 | ------------ | -------- | ----- | -------|
-| Cinebench    | 23       | 9981  | 1442   |
+| Cinebench    | R23.200  | 9981  | 1442   |
 | Cinebench    | 2024.1.0 | 544   | 87     |
