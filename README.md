@@ -4,8 +4,11 @@ Hier befindet sich die Übersicht zu meinen Benchmarks.
 ## Inhalt
 
 * [Browser](Browser)
+* HDD (Hard Disk Drives)
 * NVMe
-* USB-Flash
+* SSD (Solid State Drives)
+* Systems
+* USB-Flash (USB-Speichersticks)
 
 ## Was sind Benchmarks?
 
