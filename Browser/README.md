@@ -9,7 +9,7 @@ Hier befinden sich die Browserbenchmarks in tabellarischer Darstellung.
 | [Chromium][chr] | 131.0.6778.69  |               | 265.426            | 13.7 ± 0.46          | 1367.74 ±8.41%            | 52.0ms +/- 3.5%    | 581
 | [Firefox][fir]  | 133.0.3        |               | 186.935            | 15.0 ± 0.62          | 1151.14 ±6.64%            | 49.9ms +/- 13.8%   | 546
 | [Edge][edg]     | 131.0.2903.99  |               | 275.349            | 20.4 ± 1.40          | 2641.24 ±2.38%            | 49.4ms +/- 2.4%    | 581
-| Brave           | 131.0.6778.139 |               | 276.216            | 17.9 ± 0.89          | 1862.81 ±2.45%            | 49.1ms +/- 2.8%    | 581
+| [Brave][bra]    | 131.0.6778.139 |               | 276.216            | 17.9 ± 0.89          | 1862.81 ±2.45%            | 49.1ms +/- 2.8%    | 581
 | LibreWolf       | 133.0.3-1      |               | 168.020            |  9.26 ± 0.45         |  710.78 ±8.08%            | 36.7ms +/- 45.1%   | 539
 | Pale Moon       | 33.0.5         |               |                    |                      |  363.98 ±16.36%           | 93.2ms +/- 8.7%    | 477
 | Tor Browser     |                | 128.5.0 ESR   | 152.268            |  9.33 ± 0.59         |  914.98 ±11.30%           | 75.0ms +/- 29.0%   | 457
@@ -25,8 +25,19 @@ Hier befinden sich die Browserbenchmarks in tabellarischer Darstellung.
 [5]: <https://html5test.co/> "HTML5test"
 
 [chr]: <https://chromium.woolyss.com/download/de/> "chromium.woolyss.com"
+[bra]: <https://brave.com/de/> "brave.com"
 [fir]: <https://www.mozilla.org/de/firefox/all/> "www.mozilla.org"
 [edg]: <https://www.microsoft.com/de-de/edge/business/download> "www.microsoft.com"
+
+### Tests
+
+#### Speedometer
+Speedometer ist ein Browser-Benchmark, der die Reaktionsfähigkeit von Webanwendungen misst. Er verwendet Demo-Webanwendungen, um Benutzeraktionen wie das Hinzufügen von Aufgaben zu simulieren.
+
+#### MotionMark
+MotionMark ist ein Grafik-Benchmark, der die Fähigkeit eines Browsers misst, komplexe Szenen mit einer bestimmten Bildfrequenz zu animieren.  
+Weitere Einzelheiten über den Benchmark sind verfügbar. Höhere Punktzahlen sind besser.  
+Um genaue Ergebnisse zu erzielen, sollten Sie Ihr Browserfenster auf Vollbildgröße stellen oder Ihr Gerät ins Querformat drehen.
 
 ###### Fußnoten
 [^1]: @ 60fps
