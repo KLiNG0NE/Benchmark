@@ -41,13 +41,16 @@ Hier befinden sich die Browserbenchmarks in tabellarischer Darstellung.
 ## Tests
 
 ### JetStream
-JetStream 2.2 ist eine JavaScript- und WebAssembly-Benchmark-Suite, die sich auf die fortschrittlichsten Webanwendungen konzentriert. Sie belohnt Browser, die schnell starten, Code schnell ausführen und reibungslos funktionieren. Höhere Punktzahlen sind besser.
+JetStream 2.2 ist eine JavaScript- und WebAssembly-Benchmark-Suite, die sich auf die fortschrittlichsten Webanwendungen konzentriert. Sie belohnt Browser, die schnell starten, Code schnell ausführen und reibungslos funktionieren. Höhere Punktzahlen sind besser.  
+https://browserbench.org/JetStream/
 
 ### Speedometer
-Speedometer ist ein Browser-Benchmark, der die Reaktionsfähigkeit von Webanwendungen misst. Er verwendet Demo-Webanwendungen, um Benutzeraktionen wie das Hinzufügen von Aufgaben zu simulieren. (Niedrigere Werte sind besser.)
+Speedometer ist ein Browser-Benchmark, der die Reaktionsfähigkeit von Webanwendungen misst. Er verwendet Demo-Webanwendungen, um Benutzeraktionen wie das Hinzufügen von Aufgaben zu simulieren. (Niedrigere Werte sind besser.)  
+https://browserbench.org/Speedometer3.0/
 
 ### MotionMark
-MotionMark ist ein Grafik-Benchmark, der die Fähigkeit eines Browsers misst, komplexe Szenen mit einer bestimmten Bildfrequenz zu animieren. Höhere Punktzahlen sind besser.
+MotionMark ist ein Grafik-Benchmark, der die Fähigkeit eines Browsers misst, komplexe Szenen mit einer bestimmten Bildfrequenz zu animieren. Höhere Punktzahlen sind besser.  
+https://browserbench.org/MotionMark1.3.1
 
 ### SunSpider
 SunSpider ist ein JavaScript-Benchmark. Dieser Benchmark testet nur die Kernsprache JavaScript, nicht das DOM oder andere Browser-APIs. Er ist dazu gedacht, verschiedene Versionen desselben Browsers und verschiedene Browser miteinander zu vergleichen.
@@ -59,7 +62,17 @@ Dieser Test vermeidet Mikrobenchmarks und versucht, sich auf die Probleme zu kon
 Dieser Test ist ausgewogen zwischen verschiedenen Bereichen der Sprache und verschiedenen Arten von Code. Es geht nicht nur um Mathematik, um die Verarbeitung von Zeichenketten oder um das Timing einfacher Schleifen. Zusätzlich zu den Tests in vielen Kategorien wurden die einzelnen Tests so abgestimmt, dass sie auf den aktuellen Versionen der gängigen Browser ähnlich viel Zeit benötigen.
 
 #### Statistisch fundiert
-Eine der Herausforderungen beim Benchmarking besteht darin, zu wissen, wie viel Ungenauigkeit in den Messungen steckt. Dieser Benchmark führt jeden Test mehrmals durch und bestimmt einen Fehlerbereich (technisch gesehen ein 95%-Konfidenzintervall). Im Vergleichsmodus können Sie außerdem feststellen, ob Sie über genügend Daten verfügen, um festzustellen, ob der Unterschied statistisch signifikant ist. (Niedrigere Werte sind besser.)
+Eine der Herausforderungen beim Benchmarking besteht darin, zu wissen, wie viel Ungenauigkeit in den Messungen steckt. Dieser Benchmark führt jeden Test mehrmals durch und bestimmt einen Fehlerbereich (technisch gesehen ein 95%-Konfidenzintervall). Im Vergleichsmodus können Sie außerdem feststellen, ob Sie über genügend Daten verfügen, um festzustellen, ob der Unterschied statistisch signifikant ist. (Niedrigere Werte sind besser.)  
+http://proofcafe.org/jsx-bench/js/sunspider.html
+
+### HTML5test
+Diese Website testet wie gut der HTML5-Standard von dem Browser unterstützt wird.  
+Original-Website: https://html5test.com/  
+Inoffizielles Update: https://html5test.co/
+
+### BrowserAudit
+BrowserAudit ist ein kostenloser Dienst, mit dem Sie testen können, wie gut die gängigsten Sicherheitsstandards und -funktionen in Ihrem Webbrowser implementiert sind. Die Website beinhaltet eine Sammlung von über 400 Tests. Nach ein paar Minuten erhalten Sie einen persönlichen Bericht, in dem beschrieben wird, was gut und was schlecht an der Umsetzung dieser Sicherheitsfunktionen in Ihrem Webbrowser ist.  
+https://browseraudit.com/
 
 ###### Fußnoten
 [^1]: @ 60fps
