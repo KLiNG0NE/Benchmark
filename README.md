@@ -4,10 +4,11 @@ Hier befindet sich die Übersicht zu meinen Benchmarks.
 ## Inhalt
 
 * [Browser](Browser)
-* [CPU](CPU)
-* HDD (Hard Disk Drives)
-* [NVMe](NVMe)
-* SSD (Solid State Drives)
+* [CPU](CPU) - Hauptprozessor
+* [GPU](GPU) - Grafikprozessor
+* HDD (Hard Disk Drives) - Festplatte
+* [NVMe](NVMe) - M.2 Flash-Speicher
+* SSD (Solid State Drives) SATA Flash-Speicher
 * Systems
 * [USB-Flash](USB-Flash) (USB-Speichersticks)
 
