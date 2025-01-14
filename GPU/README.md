@@ -26,3 +26,8 @@ Benchmarking wird in der Regel mit der Bewertung von Leistungsmerkmalen von Comp
 Benchmarks bieten eine Methode zum Vergleich der Leistung verschiedener Teilsysteme auf unterschiedlichen Chip-/Systemarchitekturen. Benchmarking als Teil der kontinuierlichen Integration wird als Continuous Benchmarking bezeichnet. 
 
 *Quelle:* Übersetzung von [Wikipedia](https://en.wikipedia.org/wiki/Benchmark_(computing))
+
+[KLiNG0NE](https://github.com/KLiNG0NE) | [Benchmark](https://github.com/KLiNG0NE/Benchmark)
+
+
+
