@@ -27,6 +27,8 @@ Benchmarks bieten eine Methode zum Vergleich der Leistung verschiedener Teilsyst
 
 *Quelle:* Übersetzung von [Wikipedia](https://en.wikipedia.org/wiki/Benchmark_(computing))
 
+---
+
 [KLiNG0NE](https://github.com/KLiNG0NE) | [Benchmark](https://github.com/KLiNG0NE/Benchmark)
 
 
