@@ -20,7 +20,7 @@ In der Informatik bezeichnet ein Benchmark die Ausführung eines Computerprogram
 
 Der Begriff „Benchmark“ wird häufig auch für aufwendig gestaltete Benchmarking-Programme selbst verwendet.
 
-Benchmarking wird in der Regel mit der Bewertung von Leistungsmerkmalen von Computer-Hardware in Verbindung gebracht, z. B. der Gleitkomma-Operationsleistung einer CPU, aber es gibt Umstände, unter denen die Technik auch auf Software anwendbar ist. Software-Benchmarks werden z. B. mit Compilern oder Datenbankmanagementsystemen (DBMS) durchgeführt.
+Benchmarking wird in der Regel mit der Bewertung von Leistungsmerkmalen von Computer-Hardware in Verbindung gebracht, z. B. der Gleitkomma-Operationsleistung einer CPU. Unter Umständen, ist die Technik auch auf Software anwendbar. Software-Benchmarks werden z. B. mit Compilern oder Datenbankmanagementsystemen (DBMS) durchgeführt.
 
 Benchmarks bieten eine Methode zum Vergleich der Leistung verschiedener Teilsysteme auf unterschiedlichen Chip-/Systemarchitekturen. Benchmarking als Teil der kontinuierlichen Integration wird als Continuous Benchmarking bezeichnet. 
 
