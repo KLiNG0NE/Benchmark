@@ -12,6 +12,8 @@ Hier befindet sich die Übersicht zu meinen Benchmarks.
 * Systems
 * [USB-Flash](USB-Flash) (USB-Speichersticks)
 
+---
+
 ## Was sind Benchmarks?
 
 In der Informatik bezeichnet ein Benchmark die Ausführung eines Computerprogramms, einer Reihe von Programmen oder anderer Operationen, um die relative Leistung eines Objekts zu bewerten, normalerweise durch die Durchführung einer Reihe von Standardtests und -prüfungen.
@@ -23,3 +25,7 @@ Benchmarking wird in der Regel mit der Bewertung von Leistungsmerkmalen von Comp
 Benchmarks bieten eine Methode zum Vergleich der Leistung verschiedener Teilsysteme auf unterschiedlichen Chip-/Systemarchitekturen. Benchmarking als Teil der kontinuierlichen Integration wird als Continuous Benchmarking bezeichnet. 
 
 *Quelle:* Übersetzung von [Wikipedia](https://en.wikipedia.org/wiki/Benchmark_(computing))
+
+---
+
+[KLiNG0NE](https://github.com/KLiNG0NE)
