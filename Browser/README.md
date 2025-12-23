@@ -10,7 +10,7 @@ Hier befinden sich die Browserbenchmarks in tabellarischer Darstellung.
 | [Firefox][fir]     | 146.0.1        |                | 219.250            |                      |                           |  35.3ms +/- 8.4%   | 
 | [Brave][bra]       | 1.85.118       | 143.0.7499.169 |                    |                      |                           |  154.3ms +/- 2.2%  | 
 | [LibreWolf][lib]   |                |                |                    |                      |                           |  46.8ms +/- 44.8%  | 
-|                    |                |                |                    |                      |                           |                    | 
+|                    | 146.0.1        |                |                    |                      |                           |                    | 
 
 ### 2024-12
 
