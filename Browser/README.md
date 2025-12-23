@@ -11,7 +11,7 @@ Hier befinden sich die Browserbenchmarks in tabellarischer Darstellung.
 | [Brave][bra]       | 1.85.118       | 143.0.7499.169 | 65.063             | 12.2 ± 0.23             |                           |  154.3ms +/- 2.2%  | 577
 | [LibreWolf][lib]   | 146.0.1        |                | 191.746            | 8.18 ± 0.33             |                           |  46.8ms +/- 44.8%  | 539
 | [Vivaldi][viv]     | 7.7.3851.66    | 142.0.7444.245 |                    |                         |                           |                    | 
-|                    |                |                |                    |                         |                           |                    | 
+|                    |                |                |                    |                         |                           |                    | 582
 
 ### 2024-12
 
