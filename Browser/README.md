@@ -32,8 +32,8 @@ Hier befinden sich die Browserbenchmarks in tabellarischer Darstellung.
 | [Arc][arc]         | 1.33.0 (3189)  | 131.0.6778.205 | 273.540            | 19.2 ± 0.91          | 1776.17 ±2.56%            | 55.0ms +/- 2.9%    | 581
 
 [1]: <https://browserbench.org/JetStream/> "JetStream 2.2"
-[2]: <https://browserbench.org/Speedometer3.0/> "Speedometer 3.1"
-[2-25]: <https://browserbench.org/Speedometer3.1/> "Speedometer 3.0"
+[2]: <https://browserbench.org/Speedometer3.0/> "Speedometer 3.0"
+[2-25]: <https://browserbench.org/Speedometer3.1/> "Speedometer 3.1"
 [3]: <https://browserbench.org/MotionMark1.3.1> "SunSpider 1.0"
 [4]: <http://proofcafe.org/jsx-bench/js/sunspider.html> "SunSpider 1.0"
 [5]: <https://html5test.co/> "HTML5test"
@@ -60,6 +60,7 @@ https://browserbench.org/JetStream/
 ### Speedometer
 Speedometer ist ein Browser-Benchmark, der die Reaktionsfähigkeit von Webanwendungen misst. Er verwendet Demo-Webanwendungen, um Benutzeraktionen wie das Hinzufügen von Aufgaben zu simulieren. (Niedrigere Werte sind besser.)  
 https://browserbench.org/Speedometer3.0/
+https://browserbench.org/Speedometer3.1/
 
 ### MotionMark
 MotionMark ist ein Grafik-Benchmark, der die Fähigkeit eines Browsers misst, komplexe Szenen mit einer bestimmten Bildfrequenz zu animieren. Höhere Punktzahlen sind besser.  
