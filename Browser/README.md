@@ -59,7 +59,7 @@ https://browserbench.org/JetStream/
 
 ### Speedometer
 Speedometer ist ein Browser-Benchmark, der die Reaktionsfähigkeit von Webanwendungen misst. Er verwendet Demo-Webanwendungen, um Benutzeraktionen wie das Hinzufügen von Aufgaben zu simulieren. (Niedrigere Werte sind besser.)  
-https://browserbench.org/Speedometer3.0/
+https://browserbench.org/Speedometer3.0/  
 https://browserbench.org/Speedometer3.1/
 
 ### MotionMark
