@@ -7,7 +7,7 @@ Hier befinden sich die Browserbenchmarks in tabellarischer Darstellung.
 | Browser            | Version        | Main           | [JetStream 2.2][1] | [Speedometer 3.0][2] | [MotionMark 1.3.1][3][^1] | [SunSpider 1.0][4] | [HTML5test][5][^2]
 | ------------------ | -------------- | -------------- | :----------------: | :------------------: | :-----------------------: | :----------------: | :-------------------:
 | [Chromium][chr]    |                |                | 67.050             |                      |                           |                    | 
-| [Firefox][fir]     | 146.0.1        |                | 219.250            |                      |                           |                    | 
+| [Firefox][fir]     | 146.0.1        |                | 219.250            |                      |                           |  35.3ms +/- 8.4%   | 
 
 ### 2024-12
 
