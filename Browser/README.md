@@ -4,13 +4,13 @@ Hier befinden sich die Browserbenchmarks in tabellarischer Darstellung.
 
 ### 2025-12
 
-| Browser            | Version        | Main           | [JetStream 2.2][1] | [Speedometer 3.0][2] | [MotionMark 1.3.1][3][^1] | [SunSpider 1.0][4] | [HTML5test][5][^2]
-| ------------------ | -------------- | -------------- | :----------------: | :------------------: | :-----------------------: | :----------------: | :-------------------:
-| [Chromium][chr]    | 143.0.7499.109 |                | 67.050             |                      |                           |  152.2ms +/- 1.4%  | 582
-| [Firefox][fir]     | 146.0.1        |                | 219.250            |                      |                           |  35.3ms +/- 8.4%   | 546
-| [Brave][bra]       | 1.85.118       | 143.0.7499.169 | 65.063             |                      |                           |  154.3ms +/- 2.2%  | 577
-| [LibreWolf][lib]   | 146.0.1        |                | 191.746            |                      |                           |  46.8ms +/- 44.8%  | 539
-|                    |                |                |                    |                      |                           |                    | 
+| Browser            | Version        | Main           | [JetStream 2.2][1] | [Speedometer 3.1][2-25] | [MotionMark 1.3.1][3][^1] | [SunSpider 1.0][4] | [HTML5test][5][^2]
+| ------------------ | -------------- | -------------- | :----------------: | :---------------------: | :-----------------------: | :----------------: | :-------------------:
+| [Chromium][chr]    | 143.0.7499.109 |                | 67.050             | 13.6 ± 0.53             |                           |  152.2ms +/- 1.4%  | 582
+| [Firefox][fir]     | 146.0.1        |                | 219.250            |                         |                           |  35.3ms +/- 8.4%   | 546
+| [Brave][bra]       | 1.85.118       | 143.0.7499.169 | 65.063             |                         |                           |  154.3ms +/- 2.2%  | 577
+| [LibreWolf][lib]   | 146.0.1        |                | 191.746            |                         |                           |  46.8ms +/- 44.8%  | 539
+|                    |                |                |                    |                         |                           |                    | 
 
 ### 2024-12
 
@@ -31,6 +31,7 @@ Hier befinden sich die Browserbenchmarks in tabellarischer Darstellung.
 
 [1]: <https://browserbench.org/JetStream/> "JetStream 2.2"
 [2]: <https://browserbench.org/Speedometer3.0/> "Speedometer 3.0"
+[2-25]: <https://browserbench.org/Speedometer3.1/> "Speedometer 3.0"
 [3]: <https://browserbench.org/MotionMark1.3.1> "SunSpider 1.0"
 [4]: <http://proofcafe.org/jsx-bench/js/sunspider.html> "SunSpider 1.0"
 [5]: <https://html5test.co/> "HTML5test"
