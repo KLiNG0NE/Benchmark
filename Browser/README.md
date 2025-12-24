@@ -12,6 +12,7 @@ Hier befinden sich die Browserbenchmarks in tabellarischer Darstellung.
 | [LibreWolf][lib]   | 146.0.1        |                | 191.746            | 8.18 ± 0.33             |                           |   46.8ms +/- 44.8% | 539
 | [Vivaldi][viv]     | 7.7.3851.66    | 142.0.7444.245 | 319.093            | 20.3 ± 0.93             | 2649.70  ±7.95%           |   46.7ms +/- 2.9%  | 582
 | [Pale Moon][pal]   | 33.9.1 64-Bit  |                |                    |                         | 369.19 ±6.57%             |  102.6ms +/- 12.1% | 475
+| [Opera][opr]       | 123.0.5669.23  |                |                    | 18.9 ± 1.0              |                           |   76.6ms +/- 2.1%  | 582
 |                    |                |                |                    |                         |                           |                    | 
 
 ### 2024-12
@@ -50,6 +51,7 @@ Hier befinden sich die Browserbenchmarks in tabellarischer Darstellung.
 [tor]: <https://www.torproject.org/de/> "www.torproject.org"
 [viv]: <https://vivaldi.com/de/> "vivaldi.com"
 [zen]: <https://zen-browser.app> "zen-browser.app"
+[opr]: <https://www.opera.com/de> "www.opera.com"
 
 ## Tests
 
