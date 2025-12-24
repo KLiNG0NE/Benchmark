@@ -31,8 +31,10 @@ Hier befinden sich die Browserbenchmarks in tabellarischer Darstellung.
 | [Zen][zen]         | 1.0.2-b.2      | 133.0.3        | 192.687            | 15.3 ± 0.43          | 1227.54 ±3.30%            | 50.2ms +/- 12.6%   | 546
 | [Floorp][flo]      | 11.21.0        | 128.0          | 183.493            | 16.0 ± 0.36          | 1090.78 ±3.19%            | 44.6ms +/- 4.0%    | 546
 | [Midori][mid]      | 11.4.3         | 128.0          | 171.244            | 12.4 ± 0.26          | 1001.36 ±3.26%            | 45.6ms +/- 3.8%    | 546
-| [Pale Moon][pal]   | 33.0.5         |                |                    |                      |  363.98 ±16.36%           | 93.2ms +/- 8.7%    | 477
+| [Pale Moon][pal]   | 33.0.5         |                | —                  | —                    |  363.98 ±16.36%           | 93.2ms +/- 8.7%    | 477
 | [Arc][arc]         | 1.33.0 (3189)  | 131.0.6778.205 | 273.540            | 19.2 ± 0.91          | 1776.17 ±2.56%            | 55.0ms +/- 2.9%    | 581
+
+— Test konnte nicht ausgeführt werden
 
 [1]: <https://browserbench.org/JetStream/> "JetStream 2.2"
 [2]: <https://browserbench.org/Speedometer3.0/> "Speedometer 3.0"
