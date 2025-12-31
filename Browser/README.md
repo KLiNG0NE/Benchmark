@@ -22,7 +22,7 @@ Hier befinden sich die Browserbenchmarks in tabellarischer Darstellung.
 | [Pale Moon][pal]   | 33.9.1 64-Bit  |                | —                  | —                       |  369.19 ±6.57%            |  102.6ms +/- 12.1% | 475
 | [Opera][opr]       | 123.0.5669.23  |                | 245.437            | 18.9 ± 1.0              | 1065.67 ±2.97%            |   76.6ms +/- 2.1%  | 582
 | [Waterfox][wat]    | 6.6.7          | 140.0          | 203.833            | 17.7 ± 0.61             | —                         |   40.8ms +/- 5.9%  | 546
-| [Seamonkey][sea]   | 2.53.22        |                |  99.756            | —                       |                           |   40.8ms +/- 5.9%  | 465
+| [Seamonkey][sea]   | 2.53.22        |                |  99.756            | —                       |  388.65 ±4.61%            |   40.8ms +/- 5.9%  | 465
 |                    |                |                |                    |                         |                           |                    | 
 
 — Test konnte nicht (richtig) ausgeführt werden
