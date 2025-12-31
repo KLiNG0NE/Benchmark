@@ -16,7 +16,7 @@ Hier befinden sich die Browserbenchmarks in tabellarischer Darstellung.
 | [Waterfox][wat]    | 6.6.7          | 140.0          | 203.833            | 17.7 ± 0.61             | —                         |   40.8ms +/- 5.9%  | 546
 |                    |                |                |                    |                         |                           |                    | 
 
-— Test konnte nicht ausgeführt werden
+— Test konnte nicht (richtig) ausgeführt werden
 
 ### 2024-12
 
