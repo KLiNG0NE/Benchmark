@@ -2,6 +2,14 @@
 
 Hier befinden sich die Browserbenchmarks in tabellarischer Darstellung.
 
+## Übersicht
+
+* 2025-12
+* 2024-12
+* Infos zu den Browser-Tests
+
+---
+
 ### 2025-12
 
 | Browser            | Version        | Main           | [JetStream 2.2][1] | [Speedometer 3.1][2-25] | [MotionMark 1.3.1][3][^1] | [SunSpider 1.0][4] | [HTML5test][5][^2]
@@ -17,6 +25,8 @@ Hier befinden sich die Browserbenchmarks in tabellarischer Darstellung.
 |                    |                |                |                    |                         |                           |                    | 
 
 — Test konnte nicht (richtig) ausgeführt werden
+
+---
 
 ### 2024-12
 
@@ -35,7 +45,7 @@ Hier befinden sich die Browserbenchmarks in tabellarischer Darstellung.
 | [Pale Moon][pal]   | 33.0.5         |                | —                  | —                    |  363.98 ±16.36%           | 93.2ms +/- 8.7%    | 477
 | [Arc][arc]         | 1.33.0 (3189)  | 131.0.6778.205 | 273.540            | 19.2 ± 0.91          | 1776.17 ±2.56%            | 55.0ms +/- 2.9%    | 581
 
-— Test konnte nicht ausgeführt werden
+— Test konnte nicht (richtig) ausgeführt werden
 
 [1]: <https://browserbench.org/JetStream/> "JetStream 2.2"
 [2]: <https://browserbench.org/Speedometer3.0/> "Speedometer 3.0"
@@ -59,7 +69,9 @@ Hier befinden sich die Browserbenchmarks in tabellarischer Darstellung.
 [opr]: <https://www.opera.com/de> "www.opera.com"
 [wat]: <https://www.waterfox.com/> "www.waterfox.com"
 
-## Tests
+---
+
+## Infos zu den Browser-Tests
 
 ### JetStream
 JetStream 2.2 ist eine JavaScript- und WebAssembly-Benchmark-Suite, die sich auf die fortschrittlichsten Webanwendungen konzentriert. Sie belohnt Browser, die schnell starten, Code schnell ausführen und reibungslos funktionieren. Höhere Punktzahlen sind besser.  
