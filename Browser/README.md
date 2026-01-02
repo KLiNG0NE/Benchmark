@@ -23,8 +23,10 @@ Hier befinden sich die Browserbenchmarks in tabellarischer Darstellung.
 | [Opera][opr]       | 123.0.5669.23  |                | 245.437            | 18.9 ± 1.0              | 1065.67 ±2.97%            |   76.6ms +/- 2.1%  | 582
 | [Waterfox][wat]    | 6.6.7          | 140.0          | 203.833            | 17.7 ± 0.61             | —                         |   40.8ms +/- 5.9%  | 546
 | [SeaMonkey][sea]   | 2.53.22        |                |  99.756            | —                       |  388.65 ±4.61%            |   40.8ms +/- 5.9%  | 465
+| [Floorp][flo]      | 12.9.2         | 146.0.2        | 197.568            | 13.7 ± 0.43             | —                         |   43.8ms +/- 6.3%  | 546
 |                    |                |                |                    |                         |                           |                    | 
-| Test |
+
+
 
 — Test konnte nicht (richtig) ausgeführt werden
 
