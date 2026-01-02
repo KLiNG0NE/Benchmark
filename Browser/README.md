@@ -27,8 +27,8 @@ Hier befinden sich die Browserbenchmarks in tabellarischer Darstellung.
 | [Arc][arc]         | 1.85.1.3       | 143.0.7499.170 | 333.582             | 21.8 ± 1.1               | 2873.46 ±2.73%             |   46.5ms +/- 1.5%   | 582
 |                    |                |                |                     |                          |                            |                     | 
 
-↑ höhere Werte sind besser
-↓ nidrigere Werte sind besser
+↑ höhere Werte sind besser  
+↓ nidrigere Werte sind besser  
 — Test konnte nicht (richtig) ausgeführt werden
 
 ---
