@@ -25,6 +25,7 @@ Hier befinden sich die Browserbenchmarks in tabellarischer Darstellung.
 | [SeaMonkey][sea]   | 2.53.22        |                |  99.756             | —                        |  388.65 ±4.61%             |   40.8ms +/- 5.9%   | 465
 | [Floorp][flo]      | 12.9.2         | 146.0.2        | 197.568             | 13.7 ± 0.43              | —                          |   43.8ms +/- 6.3%   | 546
 | [Arc][arc]         | 1.85.1.3       | 143.0.7499.170 | 333.582             | 21.8 ± 1.1               | 2873.46 ±2.73%             |   46.5ms +/- 1.5%   | 582
+| [Zen][zen]         | 1.17.15b       | 146.0.1        | 204.989             | 17.8 ± 0.58              | —                          |   42.0ms +/- 10.6%  | 546
 |                    |                |                |                     |                          |                            |                     | 
 
 ↑ höhere Werte sind besser  
